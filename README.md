@@ -175,16 +175,7 @@ define('DB_NAME', 'centralized_pharmacy');
 - Expiry alert: 30 days advance
 - Currency: PKR (Pakistani Rupee)
 
-## 📸 Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### POS System
-![POS System](screenshots/pos.png)
-
-### Reports
-![Reports](screenshots/reports.png)
 
 ## 🤝 Contributing
 
@@ -201,7 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 For support and queries:
-- **Email**: support@mr-software.online
+- **Email**: rafiqalbaloshi3@gmail.com
 - **LinkedIn**: [Muhammad Rafique](https://www.linkedin.com/in/muhammad-rafique-944b05159)
 - **Portfolio**: [mr-software.online](https://mr-software.online)
 
